@@ -18,8 +18,6 @@ Andrew Guedes Siqueira - ex145126
 
 ## Tarefa: Projeto de Composição de Pedido  
 
----
-
 * Imagem da tarefa: Projeto de Composição de Pedido Componentes:  
 
 ![TarefaPedidoEntregaClienteComponentes](images/TarefaPedidoEntregaClienteComponentes.png)
