@@ -11,6 +11,7 @@ Para as Tarefas 1, 2 e 3 que estão listadas dentro dos slides:
 Delimite partes do diagrama à esquerda que você avalia que deveriam estar dentro de um componente.
 
 ### Arquivo Tarefa 1 - Componentes de Negócio
+<image src="images/tarefa1.pdf"/>
 <embed src="images/tarefa1.pdf" type="application/pdf">
 <object data="lab4/images/tarefa1.pdf" type="application/pdf" width="100%"></object>
 
