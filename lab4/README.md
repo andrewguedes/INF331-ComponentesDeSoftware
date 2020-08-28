@@ -11,7 +11,7 @@ Para as Tarefas 1, 2 e 3 que estão listadas dentro dos slides:
 Delimite partes do diagrama à esquerda que você avalia que deveriam estar dentro de um componente.
 
 ### Arquivo Tarefa 1 - Componentes de Negócio
-- ![Tarefa1 Componentes](images/Tarefa1.pdf)
+- ![Tarefa1 Componentes](images/tarefa1.pdf)
 
 ## Tarefa 2
 *Componentes Técnicos*
