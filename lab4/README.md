@@ -11,9 +11,9 @@ Para as Tarefas 1, 2 e 3 que estão listadas dentro dos slides:
 Delimite partes do diagrama à esquerda que você avalia que deveriam estar dentro de um componente.
 
 ### Arquivo Tarefa 1 - Componentes de Negócio
-<object data="https://github.com/andrewguedes/INF331-ComponentesDeSoftware/blob/master/lab4/images/tarefa1.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://github.com/andrewguedes/INF331-ComponentesDeSoftware/blob/master/lab4/images/tarefa1.pdf" type="application/pdf">
     <embed src="https://github.com/andrewguedes/INF331-ComponentesDeSoftware/blob/master/lab4/images/tarefa1.pdf">
-    	<a href="https://github.com/andrewguedes/INF331-ComponentesDeSoftware/blob/master/lab4/images/tarefa1.pdf">
+    	<p><a href="https://github.com/andrewguedes/INF331-ComponentesDeSoftware/blob/master/lab4/images/tarefa1.pdf"></p>
     </embed>
 </object>
 
