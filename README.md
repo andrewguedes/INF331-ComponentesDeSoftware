@@ -9,3 +9,5 @@ Matéria INF331 do curso de especialização de software da Unicamp
 
 - [Lab 01](lab1/)
 - [Lab 02](lab2/)
+- [Lab 03](lab3/)
+- [Lab 04](lab4/)
