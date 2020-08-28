@@ -12,6 +12,9 @@ Delimite partes do diagrama à esquerda que você avalia que deveriam estar dent
 
 ### Arquivo Tarefa 1 - Componentes de Negócio
 - ![Tarefa1 Componentes](images/tarefa1.pdf)
+<object data="images/tarefa1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="images/tarefa1.pdf"></embed>
+</object>
 
 ## Tarefa 2
 *Componentes Técnicos*
