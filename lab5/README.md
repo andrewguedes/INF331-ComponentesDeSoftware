@@ -17,4 +17,5 @@ Crie uma conta no [Codepen](https://codepen.io/), copie o código do exemplo [Re
 ### Arquivo Tarefa 1 - Componentes de Negócio
 - ![Tarefa 2 Componentes de Negócio](images/tarefa2.jpg)
 
-###Acesso ao CodePen da [TAREFA 2](https://codepen.io/andrewguedes/pen/gOrXWoR).
+
+- Acesso ao CodePen da [TAREFA 2](https://codepen.io/andrewguedes/pen/gOrXWoR).
